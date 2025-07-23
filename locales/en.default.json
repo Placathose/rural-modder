@@ -372,6 +372,28 @@
       "min_error": "This item has a minimum of {{ min }}",
       "max_error": "This item has a maximum of {{ max }}",
       "step_error": "You can only add this item in increments of {{ step }}"
+    },
+    "curated_for_you": {
+      "name": "Curated for You",
+      "settings": {
+        "title": {
+          "label": "Heading"
+        },
+        "collection": {
+          "label": "Collection"
+        },
+        "show_vendor": {
+          "label": "Show vendor"
+        },
+        "show_rating": {
+          "label": "Show product rating"
+        }
+      },
+      "presets": {
+        "name": "Curated for You"
+      },
+      "no_products": "No products found in this collection",
+      "no_collection": "Please select a collection to display products"
     }
   },
   "localization": {
